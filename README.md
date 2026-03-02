@@ -50,10 +50,3 @@ Deep Learning, Computer Vision, Time-Series Modeling, AI System Design
 
 - LinkedIn: https://linkedin.com/in/devika-sanil-023063236
 
----
-
-## 📊 GitHub Stats
-
-![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=devikasanil&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devikasanil&layout=compact)
