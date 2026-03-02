@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Devika 👋  
 
-<!--
-**devikasanil/devikasanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electrical & Electronics Engineering student focused on Applied AI and Deep Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I build intelligent systems using Machine Learning and Deep Learning, with hands-on experience in computer vision, time-series modeling, and multimodal AI.
+
+I have worked on research-oriented projects involving CNNs, BiLSTMs, attention mechanisms, and real-time OpenCV systems, and have presented work at an IEEE conference.
+
+---
+
+## 🔬 Research & Project Focus
+
+- Deep Learning Architectures (CNN, ResNet, BiLSTM, Attention, CBAM)
+- Time-Series Sequence Modeling
+- Multimodal AI (Audio + Image Biomarkers)
+- Computer Vision using OpenCV
+- AI for Assistive and Healthcare Applications
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Predictive Relay Maloperation Early Warning System**  
+Hybrid CNN–BiLSTM–Attention model for early anomaly detection using partial waveform data.  
+Presented at ICCECE 2026 (IEEE Xplore publication pending).
+
+🔹 **Multimodal ALS Detection (Ongoing Research)**  
+Audio spectrogram-based ResNet34 + CBAM model with focal loss and Grad-CAM interpretability, integrated with imaging biomarkers.
+
+🔹 **AI-Based Assistive Smart Glasses (Final Year Project)**  
+Developing vision-based and sign-language modules with AI-driven interaction and embedded system integration.
+
+---
+
+## 🛠 Technical Stack
+
+**Languages & Tools:**  
+Python, MATLAB, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib  
+
+**Core Areas:**  
+Deep Learning, Computer Vision, Time-Series Modeling, AI System Design  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/devika-sanil-023063236
